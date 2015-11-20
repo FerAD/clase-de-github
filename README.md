@@ -6,8 +6,8 @@ git clone +url //para descargar un repositorio de github a mi computadora.
 
 .....::::Configuracion de git en computadora::::.....
 
-git config --global user.name "Fernando Arey Durán"	//configuracino de usuario en la computadora
-git config --global user.email "farey.duran@gmail.com"	//configuracion de correo en la computadora
+git config --global user.name " "//configuracino de usuario en la computadora
+git config --global user.email " "	//configuracion de correo en la computadora
 
 .....................................................
 
