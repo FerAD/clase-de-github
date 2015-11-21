@@ -24,4 +24,3 @@ git remote add origin +url	//para conectar los repositorios
 git pull origin master		//origin es el nombre de la conexion con el remote repo	
 git push origin master		//master es la branch o rama
 
-cambio 2
